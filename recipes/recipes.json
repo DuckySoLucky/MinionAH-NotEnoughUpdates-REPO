@@ -30553,13 +30553,25 @@
   "WHALE_BAIT": [
     {
       "A1": "FISH_BAIT:1",
-      "A2": "LIGHT_BAIT:1",
-      "A3": "",
       "B1": "DARK_BAIT:1",
-      "B2": "BLESSED_BAIT:1",
-      "B3": "",
       "C1": "",
+      "A2": "LIGHT_BAIT:1",
+      "B2": "BLESSED_BAIT:1",
       "C2": "",
+      "A3": "",
+      "B3": "",
+      "C3": "",
+      "count": 1
+    },
+    {
+      "A1": "",
+      "B1": "INK_SACK:1",
+      "C1": "",
+      "A2": "RAW_FISH:5",
+      "B2": "GOLD_INGOT:9",
+      "C2": "PRISMARINE_CRYSTALS:3",
+      "A3": "",
+      "B3": "RAW_FISH-1:1",
       "C3": "",
       "count": 1
     }
