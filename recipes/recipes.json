@@ -473,62 +473,6 @@
       "count": 1
     }
   ],
-  "ANGLER_BOOTS": [
-    {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "RAW_FISH:1",
-      "B2": "",
-      "B3": "RAW_FISH:1",
-      "C1": "RAW_FISH:1",
-      "C2": "",
-      "C3": "RAW_FISH:1",
-      "count": 1
-    }
-  ],
-  "ANGLER_CHESTPLATE": [
-    {
-      "A1": "RAW_FISH:1",
-      "A2": "",
-      "A3": "RAW_FISH:1",
-      "B1": "RAW_FISH:1",
-      "B2": "RAW_FISH:1",
-      "B3": "RAW_FISH:1",
-      "C1": "RAW_FISH:1",
-      "C2": "RAW_FISH:1",
-      "C3": "RAW_FISH:1",
-      "count": 1
-    }
-  ],
-  "ANGLER_HELMET": [
-    {
-      "A1": "RAW_FISH:1",
-      "A2": "RAW_FISH:1",
-      "A3": "RAW_FISH:1",
-      "B1": "RAW_FISH:1",
-      "B2": "",
-      "B3": "RAW_FISH:1",
-      "C1": "",
-      "C2": "",
-      "C3": "",
-      "count": 1
-    }
-  ],
-  "ANGLER_LEGGINGS": [
-    {
-      "A1": "RAW_FISH:1",
-      "A2": "RAW_FISH:1",
-      "A3": "RAW_FISH:1",
-      "B1": "RAW_FISH:1",
-      "B2": "",
-      "B3": "RAW_FISH:1",
-      "C1": "RAW_FISH:1",
-      "C2": "",
-      "C3": "RAW_FISH:1",
-      "count": 1
-    }
-  ],
   "ANNIHILATION_CLOAK": [
     {
       "A1": "WOOD_SINGULARITY:1",
@@ -1282,6 +1226,20 @@
       "C1": "",
       "C2": "ENCHANTED_LAPIS_LAZULI_BLOCK:3",
       "C3": "",
+      "count": 1
+    }
+  ],
+  "BAYOU_WATER_ORB": [
+    {
+      "A1": "BUSTED_BELT_BUCKLE:8",
+      "A2": "OLD_LEATHER_BOOT:1",
+      "A3": "ALLIGATOR_SKIN:8",
+      "B1": "BRONZE_BOWL:16",
+      "B2": "WATER_ORB:1",
+      "B3": "TORN_CLOTH:16",
+      "C1": "ENCHANTED_CLAY_BLOCK:1",
+      "C2": "RUSTY_COIN:64",
+      "C3": "POISON_SAMPLE:1",
       "count": 1
     }
   ],
@@ -2125,6 +2083,20 @@
       "count": 1
     }
   ],
+  "BLUERTOOTH_RING": [
+    {
+      "A1": "BLUE_RING:32",
+      "A2": "GOBLIN_EGG_BLUE:1",
+      "A3": "BLUE_RING:32",
+      "B1": "BLUE_SHARK_TOOTH:8",
+      "B2": "BLUETOOTH_RING:1",
+      "B3": "BLUE_SHARK_TOOTH:8",
+      "C1": "BLUE_RING:32",
+      "C2": "GOBLIN_EGG_BLUE:1",
+      "C3": "BLUE_RING:32",
+      "count": 1
+    }
+  ],
   "BLUETOOTH_RING": [
     {
       "A1": "METAL_HEART:4",
@@ -2388,6 +2360,34 @@
       "C1": "STONE:1",
       "C2": "STONE:1",
       "C3": "STONE:1",
+      "count": 1
+    }
+  ],
+  "BRONZE_SHIP_HELM": [
+    {
+      "A1": "",
+      "A2": "BRONZE_BOWL:1",
+      "A3": "",
+      "B1": "BRONZE_BOWL:1",
+      "B2": "LOG_2-1:64",
+      "B3": "BRONZE_BOWL:1",
+      "C1": "",
+      "C2": "BRONZE_BOWL:1",
+      "C3": "",
+      "count": 1
+    }
+  ],
+  "BRONZE_SHIP_HULL": [
+    {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "TORN_CLOTH:1",
+      "B2": "TORN_CLOTH:1",
+      "B3": "TORN_CLOTH:1",
+      "C1": "BRONZE_BOWL:1",
+      "C2": "BRONZE_BOWL:1",
+      "C3": "BRONZE_BOWL:1",
       "count": 1
     }
   ],
@@ -4529,6 +4529,20 @@
       "B3": "",
       "C1": "",
       "C2": "",
+      "C3": "",
+      "count": 1
+    }
+  ],
+  "COMMON_HOOK": [
+    {
+      "A1": "",
+      "A2": "",
+      "A3": "ENCHANTED_WATER_LILY:1",
+      "B1": "",
+      "B2": "",
+      "B3": "ENCHANTED_WATER_LILY:1",
+      "C1": "",
+      "C2": "ENCHANTED_RAW_FISH:1",
       "C3": "",
       "count": 1
     }
@@ -9251,20 +9265,6 @@
       "count": 1
     }
   ],
-  "FARMER_ROD": [
-    {
-      "A1": "",
-      "A2": "",
-      "A3": "ENCHANTED_CLAY_BALL:1",
-      "B1": "",
-      "B2": "ENCHANTED_WHEAT:1",
-      "B3": "STRING:1",
-      "C1": "ENCHANTED_WHEAT:1",
-      "C2": "",
-      "C3": "STRING:1",
-      "count": 1
-    }
-  ],
   "FARMING_1_PORTAL": [
     {
       "A1": "CARROT_ITEM:16",
@@ -10329,6 +10329,20 @@
       "count": 1
     }
   ],
+  "FLAMING_FLAY": [
+    {
+      "A1": "",
+      "A2": "",
+      "A3": "BRAIDED_GRIFFIN_FEATHER:1",
+      "B1": "",
+      "B2": "SOUL_WHIP:1",
+      "B3": "HOTSPOT_WATER_ORB:1",
+      "C1": "BRIMSTONE_HANDLE:1",
+      "C2": "",
+      "C3": "LAVA_WATER_ORB:1",
+      "count": 1
+    }
+  ],
   "FLAWED_AMBER_GEM": [
     {
       "A1": "",
@@ -11012,6 +11026,20 @@
       "C1": "ENCHANTED_SPIDER_EYE:64",
       "C2": "ENCHANTED_SPIDER_EYE:64",
       "C3": "ENCHANTED_SPIDER_EYE:64",
+      "count": 1
+    }
+  ],
+  "FRIED_FROZEN_CHICKEN": [
+    {
+      "A1": "ENCHANTED_GLACITE:64",
+      "A2": "FRIED_FEATHER:64",
+      "A3": "ENCHANTED_BLAZE_POWDER:64",
+      "B1": "FRIED_FEATHER:64",
+      "B2": "FROZEN_CHICKEN:1",
+      "B3": "FRIED_FEATHER:64",
+      "C1": "ENCHANTED_BLAZE_POWDER:64",
+      "C2": "FRIED_FEATHER:64",
+      "C3": "ENCHANTED_GLACITE:64",
       "count": 1
     }
   ],
@@ -13387,6 +13415,76 @@
       "C1": "ENCHANTED_LEATHER:1",
       "C2": "ENCHANTED_LEATHER:1",
       "C3": "ENCHANTED_LEATHER:1",
+      "count": 1
+    }
+  ],
+  "HOTSPOT_BAIT": [
+    {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "ENCHANTED_PUFFERFISH:1",
+      "B2": "SCORCHED_CRAB_STICK:1",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "count": 1
+    }
+  ],
+  "HOTSPOT_HOOK": [
+    {
+      "A1": "",
+      "A2": "",
+      "A3": "ENCHANTED_WATER_LILY:32",
+      "B1": "",
+      "B2": "",
+      "B3": "SINGED_POWDER:8",
+      "C1": "",
+      "C2": "BROKEN_RADAR:8",
+      "C3": "",
+      "count": 1
+    }
+  ],
+  "HOTSPOT_RADAR": [
+    {
+      "A1": "BRONZE_BOWL:1",
+      "A2": "",
+      "A3": "BRONZE_BOWL:1",
+      "B1": "REDSTONE:1",
+      "B2": "BROKEN_RADAR:1",
+      "B3": "REDSTONE:1",
+      "C1": "IRON_INGOT:1",
+      "C2": "IRON_INGOT:1",
+      "C3": "IRON_INGOT:1",
+      "count": 1
+    }
+  ],
+  "HOTSPOT_SINKER": [
+    {
+      "A1": "",
+      "A2": "BROKEN_RADAR:8",
+      "A3": "",
+      "B1": "",
+      "B2": "SINGED_POWDER:8",
+      "B3": "",
+      "C1": "",
+      "C2": "ENCHANTED_CLAY_BALL:64",
+      "C3": "",
+      "count": 1
+    }
+  ],
+  "HOTSPOT_WATER_ORB": [
+    {
+      "A1": "HALF_EATEN_MUSHROOM:64",
+      "A2": "BLUE_RING:8",
+      "A3": "FRIED_FEATHER:64",
+      "B1": "SINGED_POWDER:8",
+      "B2": "WATER_ORB:1",
+      "B3": "SCORCHED_CRAB_STICK:8",
+      "C1": "ENCHANTED_JUNGLE_LOG:64",
+      "C2": "BROKEN_RADAR:8",
+      "C3": "ENCHANTED_COAL:64",
       "count": 1
     }
   ],
@@ -21188,17 +21286,17 @@
       "count": 1
     }
   ],
-  "PRISMARINE_ROD": [
+  "PRISMARINE_SINKER": [
     {
       "A1": "",
-      "A2": "",
-      "A3": "PRISMARINE_CRYSTALS:1",
+      "A2": "WATER_LILY:16",
+      "A3": "",
       "B1": "",
-      "B2": "PRISMARINE_SHARD:1",
-      "B3": "STRING:1",
-      "C1": "PRISMARINE_SHARD:1",
-      "C2": "",
-      "C3": "STRING:1",
+      "B2": "PRISMARINE_CRYSTALS:8",
+      "B3": "",
+      "C1": "",
+      "C2": "PRISMARINE_SHARD:8",
+      "C3": "",
       "count": 1
     }
   ],
@@ -21844,6 +21942,20 @@
       "C2": "QUARTZ_BLOCK:1",
       "C3": "QUARTZ_BLOCK:1",
       "count": 4
+    }
+  ],
+  "QUICK_BITE;1": [
+    {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "",
+      "B2": "ENCHANTED_PAPER:1",
+      "B3": "ENCHANTED_PAPER:1",
+      "C1": "",
+      "C2": "ENCHANTED_PAPER:1",
+      "C3": "ALLIGATOR_SKIN:8",
+      "count": 1
     }
   ],
   "RABBIT;0": [
@@ -23383,6 +23495,20 @@
       "C1": "ENCHANTED_RAW_SALMON:1",
       "C2": "ENCHANTED_RAW_SALMON:1",
       "C3": "ENCHANTED_RAW_SALMON:1",
+      "count": 1
+    }
+  ],
+  "SALMON_HAT": [
+    {
+      "A1": "RAW_FISH-1:1",
+      "A2": "RAW_FISH-1:1",
+      "A3": "RAW_FISH-1:1",
+      "B1": "RAW_FISH-1:1",
+      "B2": "",
+      "B3": "RAW_FISH-1:1",
+      "C1": "RAW_FISH-1:1",
+      "C2": "RAW_FISH-1:1",
+      "C3": "RAW_FISH-1:1",
       "count": 1
     }
   ],
@@ -25846,20 +25972,6 @@
       "count": 1
     }
   ],
-  "SPEEDSTER_ROD": [
-    {
-      "A1": "",
-      "A2": "",
-      "A3": "RAW_FISH-1:32",
-      "B1": "",
-      "B2": "RAW_FISH-1:32",
-      "B3": "STRING:1",
-      "C1": "RAW_FISH-1:32",
-      "C2": "",
-      "C3": "STRING:1",
-      "count": 1
-    }
-  ],
   "SPEED_ARTIFACT": [
     {
       "A1": "ENCHANTED_SUGAR_CANE:6",
@@ -26364,17 +26476,17 @@
       "count": 1
     }
   ],
-  "SPONGE_ROD": [
+  "SPONGE_SINKER": [
     {
       "A1": "",
-      "A2": "",
-      "A3": "SPONGE:1",
+      "A2": "WATER_LILY:16",
+      "A3": "",
       "B1": "",
-      "B2": "SPONGE:1",
-      "B3": "STRING:1",
-      "C1": "SPONGE:1",
-      "C2": "",
-      "C3": "STRING:1",
+      "B2": "SPONGE:4",
+      "B3": "",
+      "C1": "",
+      "C2": "SPONGE:4",
+      "C3": "",
       "count": 1
     }
   ],
@@ -29360,6 +29472,20 @@
       "count": 1
     }
   ],
+  "TITAN_LINE": [
+    {
+      "A1": "",
+      "A2": "",
+      "A3": "RUSTY_COIN:64",
+      "B1": "",
+      "B2": "BAYOU_WATER_ORB:1",
+      "B3": "",
+      "C1": "TITANOBOA_SHED:1",
+      "C2": "",
+      "C3": "",
+      "count": 1
+    }
+  ],
   "TNT": [
     {
       "A1": "SULPHUR:1",
@@ -29544,15 +29670,15 @@
   ],
   "ULTIMATE_BOBBIN_TIME;3": [
     {
-      "A1": "",
-      "A2": "SHARK_WATER_ORB:1",
-      "A3": "",
-      "B1": "SPOOKY_WATER_ORB:1",
+      "A1": "BAYOU_WATER_ORB:1",
+      "A2": "WINTER_WATER_ORB:1",
+      "A3": "SPOOKY_WATER_ORB:1",
+      "B1": "",
       "B2": "BOBBIN_SCRIPTURES:1",
-      "B3": "WINTER_WATER_ORB:1",
-      "C1": "",
-      "C2": "LAVA_WATER_ORB:1",
-      "C3": "",
+      "B3": "",
+      "C1": "SHARK_WATER_ORB:1",
+      "C2": "HOTSPOT_WATER_ORB:1",
+      "C3": "LAVA_WATER_ORB:1",
       "count": 1
     }
   ],
@@ -29581,6 +29707,20 @@
       "C1": "STUFFED_CHILI_PEPPER:1",
       "C2": "ENCHANTED_HUGE_MUSHROOM_1:64",
       "C3": "STUFFED_CHILI_PEPPER:1",
+      "count": 1
+    }
+  ],
+  "UMBERELLA": [
+    {
+      "A1": "REFINED_UMBER:2",
+      "A2": "REFINED_UMBER:2",
+      "A3": "REFINED_UMBER:2",
+      "B1": "",
+      "B2": "STICK:1",
+      "B3": "",
+      "C1": "",
+      "C2": "STICK:1",
+      "C3": "",
       "count": 1
     }
   ],
@@ -30538,14 +30678,14 @@
   ],
   "WHALE_BAIT": [
     {
-      "A1": "FISH_BAIT:1",
-      "B1": "DARK_BAIT:1",
+      "A1": "",
+      "B1": "FISH_BAIT:1",
       "C1": "",
-      "A2": "LIGHT_BAIT:1",
-      "B2": "BLESSED_BAIT:1",
+      "A2": "",
+      "B2": "LIGHT_BAIT:1",
       "C2": "",
       "A3": "",
-      "B3": "",
+      "B3": "DARK_BAIT:1",
       "C3": "",
       "count": 1
     },
@@ -30553,11 +30693,11 @@
       "A1": "",
       "B1": "INK_SACK:1",
       "C1": "",
-      "A2": "RAW_FISH:5",
-      "B2": "GOLD_INGOT:9",
+      "A2": "",
+      "B2": "RAW_FISH-1:1",
       "C2": "PRISMARINE_CRYSTALS:3",
-      "A3": "",
-      "B3": "RAW_FISH-1:1",
+      "A3": "RAW_FISH:4",
+      "B3": "",
       "C3": "",
       "count": 1
     }
