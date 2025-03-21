@@ -767,20 +767,6 @@
       "count": 1
     }
   ],
-  "AUGER_ROD": [
-    {
-      "A1": "",
-      "A2": "ENCHANTED_PACKED_ICE:32",
-      "A3": "",
-      "B1": "ENCHANTED_PACKED_ICE:32",
-      "B2": "YETI_ROD:1",
-      "B3": "ENCHANTED_PACKED_ICE:32",
-      "C1": "",
-      "C2": "ENCHANTED_PACKED_ICE:32",
-      "C3": "",
-      "count": 1
-    }
-  ],
   "AUTO_SMELTER": [
     {
       "A1": "COBBLESTONE:8",
@@ -13429,7 +13415,7 @@
       "C1": "",
       "C2": "",
       "C3": "",
-      "count": 1
+      "count": 32
     }
   ],
   "HOTSPOT_HOOK": [
